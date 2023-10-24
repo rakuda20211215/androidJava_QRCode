@@ -50,7 +50,7 @@ Qrcode の読み取りは openCV の画像処理を使用。
 
 - SNS アカウントによるログイン
   こういったソーシャルログインを使用すると、
-  Sns の多要素認証を利用できるので、セキュリティの向上につながる。
+  SNS の多要素認証を利用できるので、セキュリティの向上につながる。
   また、Id やパスワードを保管する必要がなくユーザー情報の管理が容易になるという利点がある。
 - QRcode を利用
   近年 QRcode の利用が活発になってきているため、 学習の一環として QRcode を利用。
@@ -61,10 +61,10 @@ Qrcode の読み取りは openCV の画像処理を使用。
 
 ## 実行手順
 
-前準備 [実行用ファイル保存場所](https://drive.google.com/drive/folders/1jj0yzLCwEM36_dOyABLbM79VjNNtr3T7?usp=sharing) にて openCV をダウンロード
+前準備 [実行用ファイル保存場所](https://drive.google.com/drive/folders/1jj0yzLCwEM36_dOyABLbM79VjNNtr3T7?usp=sharing) にて OpenCV をダウンロード
 
 1. android studio にて clone
-2. ダウンロードした opencv を展開
+2. ダウンロードした OpenCV を展開
 3. new -> import modules にて 展開した フォルダを指定したのち、
    名前が :OpenCV であることを確認して ok
 4. build.gradle(:app) の 59 行目 `implementation project(path: ':OpenCV')` のコメントアウトを外す
