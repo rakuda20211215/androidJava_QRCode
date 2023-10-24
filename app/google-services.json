@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "282937913102",
+    "project_id": "laplacekmk2-402708",
+    "storage_bucket": "laplacekmk2-402708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282937913102:android:413d714e883fd9ffc9b15f",
+        "android_client_info": {
+          "package_name": "com.example.androidqr_java"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282937913102-bf6evtknve23ksoq8v2i18ft3fkcm447.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.androidqr_java",
+            "certificate_hash": "01c22d05bfd235a53b21ad7f0bf42e22cf762c9c"
+          }
+        },
+        {
+          "client_id": "282937913102-nqdh3oss6su40anuudh3irls9d2gonab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8D2ux7up567g0VRHElYMGEutnqQFzFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282937913102-0nohlhqqg7kduou3galmt2a3786nbu1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
