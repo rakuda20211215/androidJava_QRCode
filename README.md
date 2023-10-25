@@ -33,10 +33,10 @@ Google account と LINE account のどちらかで作成する。
 
 ### Database
 
-データベース作成は、 Google cloud sql for mysql を使用している。
-データベースとのやり取りは Google apps script (通称ギャス (gas)) を経由して行う
-Gas で公開した webapi に対して post メソッドでリクエストを送り、
-リクエストに応じたクエリを gas が実行するという流れになっている。
+データベース作成は、 Google cloud sql for mysql を使用している。  
+データベースとのやり取りは Google apps script (通称ギャス (gas)) を経由して行う。  
+Gas で公開した webapi に対して post メソッドでリクエストを送り、  
+リクエストに応じたクエリを gas が実行するという流れになっている。  
 
 [Gas のコード](https://script.google.com/u/2/home/projects/1LiNjqAxbamMH6iaDeKBmMRstNkucSHI57KVhgS-7nSYwctJwuADSnmWX/edit)
 
